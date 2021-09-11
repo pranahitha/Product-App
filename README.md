@@ -11,7 +11,7 @@ Angular is a development platform, built on TypeScript. As a platform, Angular i
 
 ### Angular Commands 
 
-1. Npm install –g @angular/cli: This command is basically used for installing the Angular CLI in specifically mention package manager of rpm.
+1. **Npm install –g @angular/cli ** : This command is basically used for installing the Angular CLI in specifically mention package manager of rpm.
 
 2. Ng help: Providing available online help related to angular by executing this command. This help can be varieties option, list of details will come in the prompt.
 
@@ -22,7 +22,7 @@ Angular is a development platform, built on TypeScript. As a platform, Angular i
 5. Cd first-angular-project: Cd means change directory. This command is actually moving the user cursor to the created project folder.
 6. Ng serve: This command is basically helping for building the app and ensure its availability locally. By executing this command server is responsible to automatically rebuild entire code changes and reloads the same immediately in the pages if the developer changes anything in the source file. This is very much popular command in Angular for building the app and display the corresponding changes in the screen.
 
-7.** Ng config : This command is basically helping for retrieving all the configurations details and option for setting or editing the corresponding set up configuration from the command prompt. There have another option to edit the configuration rather than executing this command that is edit angular.json file directly. There have some common mechanism need to be followed by the angular developer, like configuration file name should maintain in camel case whereas option name of executing command can be in camel case or normal.
+7. Ng config : This command is basically helping for retrieving all the configurations details and option for setting or editing the corresponding set up configuration from the command prompt. There have another option to edit the configuration rather than executing this command that is edit angular.json file directly. There have some common mechanism need to be followed by the angular developer, like configuration file name should maintain in camel case whereas option name of executing command can be in camel case or normal.
 
 8. Ng –build my-first-app –c production: This command is basically using for building the new application which developed and as well as copy the same build application to the production environment promptly. This command is helpful for switching entire change immediately to the deliverable environment. This command must need to execute inside the workspace directory. After executing this command, it generated one output directory with name dist/ on the provided output path.
 
